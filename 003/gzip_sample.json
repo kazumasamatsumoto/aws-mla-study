@@ -1,0 +1,6 @@
+{
+  "students": [
+    {"Name": "太郎", "Age": 15, "Gender": "男", "Score": 85},
+    {"Name": "花子", "Age": 16, "Gender": "女", "Score": 90}
+  ]
+} 
